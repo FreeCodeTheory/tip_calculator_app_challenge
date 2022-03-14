@@ -467,3 +467,62 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.m-\[5\%\] {
+  margin: 5%;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-80 {
+  height: 20rem;
+}
+
+.w-\[60\%\] {
+  width: 60%;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.rounded-2xl {
+  border-radius: 1rem;
+}
+
+.bg-light-grayish-cyan {
+  --tw-bg-opacity: 1;
+  background-color: hsl(185 41% 84% / var(--tw-bg-opacity));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: hsl(0 0% 100% / var(--tw-bg-opacity));
+}
+
+.font-space {
+  font-family: Space Mono;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.tracking-\[8px\] {
+  letter-spacing: 8px;
+}
+
+.text-dark-grayish-cyan {
+  --tw-text-opacity: 1;
+  color: hsl(186 14% 43% / var(--tw-text-opacity));
+}

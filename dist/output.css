@@ -484,6 +484,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 60%;
 }
 
+.w-1\/2 {
+  width: 50%;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -498,6 +502,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .rounded-2xl {
   border-radius: 1rem;
+}
+
+.border-2 {
+  border-width: 2px;
 }
 
 .bg-light-grayish-cyan {
